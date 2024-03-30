@@ -6,7 +6,7 @@ function countParaCharc(str,char) {
     str = str.toLowerCase();
     char = char.toLowerCase();
     const strArr = str.split('');
-    let count = 0;D
+    let count = 0;
     const findIt = strArr.filter((v) =>{
         if(v === char){
             count++;
