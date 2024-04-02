@@ -4,6 +4,7 @@
 // Write a function to findMax that takes an array of number as input and return the maxium number in array..
 
 function findMaxValueArray(arr){
+    // also it's work to find max value in array..
     // const max = Math.max.apply(0,arr);
     // return max;
     let maxium = -Infinity;
